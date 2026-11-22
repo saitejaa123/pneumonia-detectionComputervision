@@ -1,0 +1,8 @@
+{
+    "accuracy": 93.2692,
+    "auc_roc": 98.261,
+    "sensitivity": 95.3846,
+    "specificity": 89.7436,
+    "precision": 93.9394,
+    "f1_score": 94.6565
+}

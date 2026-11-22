@@ -1,0 +1,33 @@
+{
+  "models": [
+    "densenet121",
+    "resnet50",
+    "efficientnet_b0",
+    "vgg16",
+    "mobilenet_v3"
+  ],
+  "results": {
+    "densenet121": {
+      "error": "module 'matplotlib.cm' has no attribute 'get_cmap'"
+    },
+    "resnet50": {
+      "error": "module 'matplotlib.cm' has no attribute 'get_cmap'"
+    },
+    "efficientnet_b0": {
+      "error": "module 'matplotlib.cm' has no attribute 'get_cmap'"
+    },
+    "vgg16": {
+      "error": "module 'matplotlib.cm' has no attribute 'get_cmap'"
+    },
+    "mobilenet_v3": {
+      "error": "module 'matplotlib.cm' has no attribute 'get_cmap'"
+    }
+  },
+  "training_time_seconds": {
+    "densenet121": 72.2,
+    "resnet50": 60.9,
+    "efficientnet_b0": 36.1,
+    "vgg16": 127.6,
+    "mobilenet_v3": 5567.3
+  }
+}

@@ -1,0 +1,7 @@
+outputs/best_model_vgg16.pth
+outputs/best_model_resnet50.pth
+outputs/best_model_resnet50.pth
+chest_xray/
+__pycache__/
+*.pyc
+img_data.json

@@ -1,0 +1,15 @@
+Place the chest_xray dataset folder here.
+Download from: https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
+
+Expected structure:
+data/
+└── chest_xray/
+    ├── train/
+    │   ├── NORMAL/
+    │   └── PNEUMONIA/
+    ├── val/
+    │   ├── NORMAL/
+    │   └── PNEUMONIA/
+    └── test/
+        ├── NORMAL/
+        └── PNEUMONIA/
